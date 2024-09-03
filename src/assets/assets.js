@@ -27,7 +27,6 @@ import LogoVguard from './Logo-Vguard.png';
 import LogoCrompton from './Logo-crompton.png';
 import LogoAlmord from './Logo-almord.jpg';
 import LogoLegrand from './Logo-legrand.png';
-import LogoCona from './Logo-cona.png';
 import LogoVoltas from './Logo-voltas.png';
 import Mixer01 from './Mixer01.jpeg';
 import Mixer02 from './Mixer02.jpeg';
@@ -80,7 +79,6 @@ export const assets = {
     LogoCrompton,
     LogoAlmord,
     LogoLegrand,
-    LogoCona,
     LogoVoltas,
     Mixer01,
     Mixer02,
