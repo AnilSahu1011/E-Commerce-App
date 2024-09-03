@@ -23,7 +23,12 @@ import LogoPanasonic from './Logo-Panasonic.png';
 import LogoPegion from './Logo-Pegion.png';
 import LogoPrestige from './Logo-Prestige.jpeg';
 import LogoUsha from './Logo-Usha.png';
-import LogoVguard from './Logo-Vguard.jpg';
+import LogoVguard from './Logo-Vguard.png';
+import LogoCrompton from './Logo-crompton.png';
+import LogoAlmord from './Logo-almord.jpg';
+import LogoLegrand from './Logo-legrand.png';
+import LogoCona from './Logo-cona.png';
+import LogoVoltas from './Logo-voltas.png';
 import Mixer01 from './Mixer01.jpeg';
 import Mixer02 from './Mixer02.jpeg';
 import Mixer03 from './Mixer03.jpeg';
@@ -72,6 +77,11 @@ export const assets = {
     LogoPrestige,
     LogoUsha,
     LogoVguard,
+    LogoCrompton,
+    LogoAlmord,
+    LogoLegrand,
+    LogoCona,
+    LogoVoltas,
     Mixer01,
     Mixer02,
     Mixer03,
